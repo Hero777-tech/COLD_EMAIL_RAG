@@ -2,6 +2,9 @@ streamlit
 langchain
 langchain-community
 langchain-groq
+chromadb
+python-dotenv
+tqdm
 faiss-cpu
 huggingface-hub
 openai
